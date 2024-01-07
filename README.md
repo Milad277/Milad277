@@ -1,6 +1,6 @@
-👋 Hi, I’m Milad
-👀 I’m interested in Coding and data science
-🌱 I’m currently learning Data Science
+- 👋 Hi, I’m Milad
+- 👀 I’m interested in Coding and data science
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me Milaad.alikhani@gmail.com
 - https://www.linkedin.com/in/milad-alikhani/
 <!---
